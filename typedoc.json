@@ -1,6 +1,6 @@
 {
     "entryPoints": [
-        "./src/PrimeNumber.ts"
+        "./src/index.ts"
     ],
     "out": "docs"
 }
