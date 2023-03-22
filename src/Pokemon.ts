@@ -1,3 +1,6 @@
+/**
+ * Pokemon interface
+ */
 export interface Pokemon {
   getName(): string;
   getType(): string;
